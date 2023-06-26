@@ -1,0 +1,29 @@
+{
+  "name": "javascriptpatterns",
+  "version": "1.0.0",
+  "description": "Project based on Udemy Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredoaguiararce/JavaScriptPatterns.git"
+  },
+  "keywords": [
+    "course",
+    "udemy",
+    "js",
+    "javascript",
+    "patterns"
+  ],
+  "author": "Alfredo Aguiar Arce <alfredoaguiararce@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfredoaguiararce/JavaScriptPatterns/issues"
+  },
+  "homepage": "https://github.com/alfredoaguiararce/JavaScriptPatterns#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
