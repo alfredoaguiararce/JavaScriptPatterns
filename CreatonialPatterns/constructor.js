@@ -2,10 +2,12 @@
 class MyClass{
     constructor(prop){
         this.propiedad = prop;
-        this.metodo = () => {
-            // Method
-        };
     };
+
+    method(){
+        // Prototype method
+        
+    }
 };
 
 const instance = new MyClass(1);
