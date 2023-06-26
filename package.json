@@ -4,7 +4,9 @@
   "description": "Project based on Udemy Course",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "dev_constructor": "nodemon CreatonialPatterns/constructor.js"
+
   },
   "repository": {
     "type": "git",
