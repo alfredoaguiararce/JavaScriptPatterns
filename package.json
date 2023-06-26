@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "nodemon index.js",
-    "dev_constructor": "nodemon CreatonialPatterns/constructor.js"
+    "dev_constructor": "nodemon CreatonialPatterns/constructor.js",
+    "dev_constructor_sample": "nodemon CreatonialPatterns/example-01.js"
 
   },
   "repository": {
